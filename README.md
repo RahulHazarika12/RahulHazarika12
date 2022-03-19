@@ -1,5 +1,12 @@
 ### Hi there 👋
+# Hello World!
 
+My name is Rahul, and here are a few things I'm working on:
+
+- Happy Coding
+- React
+
+I **love** nerding out about creative coding, so don't hesitate to reach out!
 <!--
 **RahulHazarika12/RahulHazarika12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
