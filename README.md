@@ -1,10 +1,10 @@
 ### Hi there 👋
 # Hello World!
 
-My name is Rahul, and here are a few things I'm working on:
+My name is Rahul, and here are a few things 🔭 I'm working on:
 
-- Happy Coding
-- React
+- React v7
+- Javascript
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 <!--
