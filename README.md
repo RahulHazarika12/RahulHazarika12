@@ -7,6 +7,9 @@ My name is Rahul, and here are a few things 🔭 I'm working on:
 - Javascript
 - I’m currently learning backend express, routes, nodes, etc
 - Fun fact: I play games 24x7
+- Nextjs
+- Tailwind
+- Typescript
 
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
